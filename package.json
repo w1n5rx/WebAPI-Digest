@@ -1,0 +1,20 @@
+{
+  "name": "NodeJS_WebService_API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "httpdispatcher": "^2.0.1",
+    "jsdoc": "^3.4.3",
+    "jsondoc": "^0.0.0-rc.2",
+    "jsonfile": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
